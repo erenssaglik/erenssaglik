@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming,writing algorithms and developing new projects.
 - 🌱 I’m currently learning Phyton,C#,Java and Javascript.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ? LinkedIn= www.linkedin.com/in/eren-saglik Instagram= https://www.instagram.com/erenssaglik/
+- 📫 How to reach me ? LinkedIn= www.linkedin.com/in/eren-saglik
 - 😄 Pronouns: he/him
 
 
