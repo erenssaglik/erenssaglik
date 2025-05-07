@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @erenssaglik.I am a computer science student in Okan University.
+- 👋 Hi, I’m @erenssaglik.I am a computer programming student in Okan University.
 - 👀 I’m interested in programming,writing algorithms and developing new projects.
 - 🌱 I am active in Python, CSS, C#, Javascript.
 - 📫 How to reach me ? LinkedIn= www.linkedin.com/in/eren-saglik
